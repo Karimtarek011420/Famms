@@ -2,7 +2,6 @@ import axios from 'axios'
 import React from 'react'
 import { RevolvingDot } from 'react-loader-spinner'
 import { useQuery } from 'react-query'
-import './Brand.css'
 
 export default function Categroies() {
 function getCategrioes() {

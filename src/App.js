@@ -33,6 +33,14 @@ const router = createBrowserRouter([
         ),
       },
       {
+        path: "Famms/",
+        element: (
+          <ProtectRoute>
+            <Login />
+          </ProtectRoute>
+        ),
+      },
+      {
         path: "Products",
         element: (
           <ProtectRoute>

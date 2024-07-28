@@ -16,7 +16,7 @@
     box-shadow: 5px 5px 20px white !important;
 }
 .loginback{
-    background-image: url('../../images/pexels.jpg');
+    background-image: url('\../../images/pexels.jpg');
     background-size: 100% 100%;
     height: 100vh;
 }
@@ -48,9 +48,7 @@
     text-align: center;
 
 }
-/* .headerRegister{
-    /* color: var(--main-color) !important; */
-*/
+
 .nav-item .nav-link{
     font-weight: bolder;
     font-size: 18px;
@@ -83,8 +81,8 @@
         font-size: 15px !important;
     }
     .ColorRing{
-        width: "20";
-        height: "20";
+        width: 20px;
+        height: 20px;
 
     }
     .alert{
@@ -95,8 +93,7 @@
         width: 100%;
         height: 20%;
         border-radius:20px;
-        /* margin-left: 5px !important; */
-        /* margin-right:2px !important ; */
+       
 
     }
     .errormass i,.successmag i{
