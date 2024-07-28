@@ -11,7 +11,7 @@ export default function Footer() {
             className="main"
             style={{ color: "#3AB73D", fontWeight: "bolder" }}
           >
-            Get the FreshCart app
+            Get the F<span className=" text-danger">a</span>mms app
           </h3>
           <h6 className="main1" style={{ fontWeight: "bolder" }}>
             We can send you alink ,it open it on your phone to download the app

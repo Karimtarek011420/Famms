@@ -23,7 +23,7 @@ export default function Login() {
         values
       );
       if (data.message === "success") {
-        toast.success("Welcome to the FreshCart website", {
+        toast.success("Welcome to the Famms website", {
           position: "top-center",
           duration: 3000,
           className: " bg-success text-white rounded-5",

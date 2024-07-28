@@ -118,7 +118,7 @@ const [loadingProducts, setloadingProducts] = useState(false)
                     </div>
                   </div>
                 </Link>
-                <button onClick={function () {AddCartProduct(product.id)}}  className=" btn btn-outline-success form-control mb-2 rounded-4"> 
+                <button onClick={function () {AddCartProduct(product.id)}}  className="  btn btn-outline-success form-control  mb-2 rounded-4"> 
                   {loadingProducts?<div className=" d-flex justify-content-center align-items-center">
                     <Bars
                       height="30"
