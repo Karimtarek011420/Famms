@@ -17,7 +17,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg pt-3">
         <div className="container">
          <Link style={{fontWeight:'bolder'}} className="navbar-brand fs-2" to="/Products">
-         <img src='././icon1.webp' style={{width:'40px'}} alt="Logo" className="img-fluid" />
+         <img src={require('../../images/icon1.webp')} style={{width:'40px'}} alt="Logo" className="img-fluid" />
             F<span className=" text-success">a</span>mms
           </Link>
           <button
