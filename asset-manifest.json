@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Famms/static/css/main.0e537ab7.css",
+    "main.js": "/Famms/static/js/main.b18b0b32.js",
+    "static/js/453.4297e0f3.chunk.js": "/Famms/static/js/453.4297e0f3.chunk.js",
+    "static/media/light-patten.svg": "/Famms/static/media/light-patten.ed706aff39a009de4e80.svg",
+    "static/media/pexels.jpg": "/Famms/static/media/pexels.39f38b21e39ba18233c6.jpg",
+    "static/media/blog-img-2.jpeg": "/Famms/static/media/blog-img-2.69e5e73301d9616ba8c6.jpeg",
+    "static/media/blog-img-1.jpeg": "/Famms/static/media/blog-img-1.3e2f37267e1d1d5c8c75.jpeg",
+    "static/media/slider-2.jpeg": "/Famms/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/Famms/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/slider-image-1.jpeg": "/Famms/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/Famms/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/slider-image-3.jpeg": "/Famms/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/Famms/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/Famms/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Famms/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/error.svg": "/Famms/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/MasterCard_Logo.svg.webp": "/Famms/static/media/MasterCard_Logo.svg.cbdfb6078b7efff912d4.webp",
+    "static/media/fa-regular-400.ttf": "/Famms/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Famms/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/icon1.webp": "/Famms/static/media/icon1.2e239dd3ea6ed292455a.webp",
+    "static/media/fa-v4compatibility.ttf": "/Famms/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Famms/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/Famms/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Famms/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Famms/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Famms/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Famms/index.html",
+    "main.0e537ab7.css.map": "/Famms/static/css/main.0e537ab7.css.map",
+    "main.b18b0b32.js.map": "/Famms/static/js/main.b18b0b32.js.map",
+    "453.4297e0f3.chunk.js.map": "/Famms/static/js/453.4297e0f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e537ab7.css",
+    "static/js/main.b18b0b32.js"
+  ]
+}
