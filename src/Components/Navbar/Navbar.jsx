@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-import LogoImage from "../../images/freshcart-logo.svg";
 import { Link, useNavigate } from "react-router-dom";
 import { athuContext } from "../../Context/athucontext";
 import { cartContext } from "../CartContext/CartContext";

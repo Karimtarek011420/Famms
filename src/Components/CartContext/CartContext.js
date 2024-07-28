@@ -89,6 +89,7 @@ export default function CartContextProvider({ children }) {
       setproducts([]);
       setnumOfCartItems(0);
       settotalCartPrice(0);
+      console.log(data);
     } catch (error) {
       console.log("error", error);
     }
