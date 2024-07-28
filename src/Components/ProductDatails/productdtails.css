@@ -1,0 +1,36 @@
+.shadowdatils img:hover{
+    border: 1px solid #2CB72E;
+    box-shadow: 10px 10px 5px  #D1E7DD !important;}
+   .headdatails{
+    color:#2CB72E ;
+   } 
+   .descriptiondatilas{
+    font-weight: bolder;
+   }
+   .price {
+    font-size: 20px;
+}
+.original-price {
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+.discounted-price {
+    font-weight: bold;
+}
+@media screen  and (max-width:800px){
+   .pricedatails{
+    display: block !important;
+   }
+   .price {
+    font-size:13px !important;
+}
+.headdatails,.ratingsAverage{
+    font-size: 15px !important;
+}
+.original-price{
+    display: block !important;
+}
+.descriptiondatilas{
+    font-weight: 300 !important;
+   }
+  }

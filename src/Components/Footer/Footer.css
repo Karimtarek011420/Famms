@@ -1,0 +1,15 @@
+.footer input:focus{
+    outline: none !important;
+    box-shadow: 0 0 0 0 transparent !important;
+    border: 3px solid rgba(0, 130, 0,0.4) !important ;
+}
+.footer input{
+    font-weight: bolder !important;
+}
+@media screen and (max-width:1000px){
+  .main1{
+    /* font-weight: 100 !important; */
+    font-size: 14px;
+  }
+     
+    }

@@ -1,0 +1,22 @@
+.mainProduct{
+    color: #2CB72E;
+}
+.productTitle{
+    font-weight: bolder !important;
+}
+.productgruop img:hover {
+    transform: scale(1.1) !important;
+}
+.productloader{
+    background-color:whitesmoke !important;
+}
+.productgruop:hover{
+    border: 1px solid #2CB72E;
+    box-shadow: 10px 10px 5px  #D1E7DD !important;
+
+}
+@media screen  and (max-width:800px){
+    .itemsSlider{
+        margin-top: 30px !important;
+    }
+  }
