@@ -14,7 +14,7 @@ export default function Navbar() {
   }
   return (
     <>
-      <nav className="navbar navbar-expand-lg pt-3">
+      <nav className="navbar navbar-expand-lg pt-3 d-flex justify-content-center ">
         <div className="container">
          <Link style={{fontWeight:'bolder'}} className="navbar-brand fs-2" to="/Products">
          <img src={require('../../images/icon1.webp')} style={{width:'40px'}} alt="Logo" className="img-fluid" />
@@ -32,7 +32,7 @@ export default function Navbar() {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse pt-2" id="navbarSupportedContent">
-            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+            <ul className="navbar-nav me-auto mb-2 mb-lg-0  ">
               {token ? (
                 <>
                   <li className="nav-item">

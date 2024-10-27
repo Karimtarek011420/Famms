@@ -92,13 +92,18 @@ const [loadingProducts, setloadingProducts] = useState(false)
               <div key={index} className=" col-md-3">
                 <div className="productgruop overflow-hidden shadow">
                 <Link to={`/ProductDatiels/${product.id}`}>
-                  <Slider {...settings}>
+                {product.images.length > 1?  <Slider {...settings}>
                     {product.images.map(function (image, index) {
                       return (
                         <img className="w-100" key={index} src={image} alt="" />
                       );
                     })}
-                  </Slider>
+                  </Slider>:<img
+                        className="rounded-t-lg p-8 object-cover w-full"
+                        src={product.images[0]}
+                        alt={product.title}
+                      />}
+                
 
                   <div className="  pt-4">
                     <h5 className=" pt-2 pb-0 mainProduct">

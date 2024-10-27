@@ -9,6 +9,7 @@ export default function Profile() {
   const {name,role} =jwtDecode(localStorage.getItem('ktn'))
   setname(name)
   setrole(role)
+  
   }, [])
   return (
     <>
