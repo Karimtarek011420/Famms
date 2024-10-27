@@ -32,14 +32,7 @@ const router = createBrowserRouter([
           </ProtectRoute>
         ),
       },
-      {
-        path: "Famms/",
-        element: (
-          <ProtectRoute>
-            <Login />
-          </ProtectRoute>
-        ),
-      },
+     
       {
         path: "Products",
         element: (
