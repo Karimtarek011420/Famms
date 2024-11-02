@@ -99,7 +99,7 @@ const [loadingProducts, setloadingProducts] = useState(false)
                       );
                     })}
                   </Slider>:<img
-                        className="rounded-t-lg p-8 object-cover w-full"
+                        className="w-100"
                         src={product.images[0]}
                         alt={product.title}
                       />}
