@@ -99,7 +99,7 @@ const [loadingProducts, setloadingProducts] = useState(false)
                       );
                     })}
                   </Slider>:<img
-                        className="w-100"
+                        className="w-50"
                         src={product.images[0]}
                         alt={product.title}
                       />}
