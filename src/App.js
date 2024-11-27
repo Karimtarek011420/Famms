@@ -112,7 +112,9 @@ function App() {
 
   return (
     <>
+    
       <QueryClientProvider client={queryProvider}>
+      
         <CartContextProvider>
           <Authcontext>
             <RouterProvider router={router} />
