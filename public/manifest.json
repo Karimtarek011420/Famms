@@ -1,13 +1,7 @@
 {
   "short_name": "Famms",
   "name": "Famms App",
-  "icons": [
-    {
-      "src": "/icon.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
+
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
