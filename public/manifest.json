@@ -1,14 +1,14 @@
 {
-  "short_name": "ReactApp",
-  "name": "My React App",
+  "short_name": "Famms",
+  "name": "Famms App",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "/icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
